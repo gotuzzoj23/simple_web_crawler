@@ -2,7 +2,7 @@
 name = "web_crawler"
 version = "0.1.0"
 edition = "2021"
-authors = ["Jose <gotuzzok23@gmail.com"]
+authors = ["Jose <gotuzzoj23@gmail.com"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
